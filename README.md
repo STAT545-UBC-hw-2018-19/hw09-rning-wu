@@ -20,6 +20,12 @@ The plot and the data file can be found in the main directory too.
 
 The task I did was visualizing the letter frequencies in the dictionary of English words. 
 
+### `Make`
+
+I have already executed `make all` in this repository for your convenience. 
+
+To undo this, clone the repo and run `make clean` on the command line. After that, `make` or `make all` would revert the change. 
+
 ### Credits
 -------------------------------
 [This is what the repository was based off of: ](https://github.com/STAT545-UBC/make-activity)
